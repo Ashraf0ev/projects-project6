@@ -110,7 +110,7 @@ def send_question_poll(user, chat_id):
         correct_option_id=question["correct"]  
     )
 # таймер 
-    threading.Timer(60, handle_next_question, args=(user, chat_id)).start()
+    threading.Timer(30, handle_next_question, args=(user, chat_id)).start()
 def handle_next_question(user, chat_id):
     if not user["is_passing"]:
         return 
