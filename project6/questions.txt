@@ -1,0 +1,179 @@
+q What’s the etymological definition of philosophy?
+The Latin concept for logical reasoning
+The ancient art of investigating different systems of inquiry
+The interest in Pythagorean theorem
+The love of wisdom \\
+
+q What’s metaphysics?
+It’s the study of human behavior.
+It’s an analysis of social behavior.
+The study of standards and criteria based upon which knowledge’s defined.
+It’s the study of existence, nature of reality, and theories of reality.
+correct \\
+
+q What branch of philosophy does Luciano Floridi’s concept of “Infosphere” belong/relate to?
+Logic
+Metaphysics \\
+Axiology
+Epistemology
+
+q What was the fundamental substance according to Thales of Miletus?
+Water \\
+Fire
+Earth
+Air
+
+q What did monad (one) represent according to Pythagoras and his followers? Choose THREE options.
+Finite world
+The origin of everything \\
+Unity; oneness Interconnectedness \\
+Indivisibility \\
+
+q What’s the primary source of Parmenides' philosophy?
+Critique of Reason
+The Symposium
+Republic
+On Nature/Nature \\
+
+q What’s the central concept behind Parmenides philosophy?
+Plurality
+Change
+Nothingness
+Being/true reality\\
+
+q What’s Zeno's Dichotomy Paradox suggest?
+Light and motion
+Speed of sound
+Infinite indivisibility of time and space \\
+Relativity
+
+q What’re the forms/ideals according to Plato?
+The forms are identical copies of the world of forms.
+The forms/ideals represent the actual and ultimate reality. \\
+The forms are appearances.
+The forms’re used as metaphors to refer to one reality.
+
+q Which sentence correctly describes ‘teleology’?
+Teleology’s the study of numbers and mathematics in philosophy.
+Teleology’s the study of the physical properties of objects.
+Teleology studies goals in natural phenomena; anything can be explained based on its function and eventual goal. \\
+Teleology’s the study of ancient technologies.
+
+q How does Plato's virtue of temperance inform IT ethics?
+It pertains to censorship in the IT field.
+Plato's virtue of temperance’s only relevant to IT professionals who work with sensitive data, and not to those who work with less sensitive data.
+Plato's virtue of temperance’s not relevant to IT ethics as it only applies to personal behavior and not professional conduct.
+IT professionals should always exercise moderation in their implementation and use of technology by respecting privacy boundaries, avoiding excessive data collection, etc. \\
+
+q Francis Bacon's work’s known as?
+As the foundation of the modern inductive method and systematization of scientific procedure \\
+As a piece of literature that advocates the deductive method
+As the foundation of mathematical methods in science
+As the work that further developed the Theory of Forms
+
+q What’s an inductive approach?
+It’s an approach that focuses on metaphysical and abstract objects.
+It’s a method of reasoning that draws broad generalizations based on specific observations. \\
+It’s an approach that draws generalizations based on biases.
+It’s a method that draws generalizations based on axioms.
+
+q What book’s the source of the detailed description of Locke’s epistemology?
+Symposium
+Leviathan
+Critique of Pure Reason
+Essay on the Human Understanding \\
+
+q What book’s the source of Berkeley’s empiricism?
+The Allegory of the Cave
+Discourse on the Method
+The Principles of Human Knowledge \\
+
+q What’s the primary source of David Hume’s philosophy of empiricism?
+Le Monde
+A Treatise Concerning the Principles of Human Knowledge
+Treatise of Human Understanding
+Treatise of Human Nature \\
+
+q Which concepts below’re included in the list of Hume’s philosophical relations?
+Discourse analysis and deliberation among many
+Complex ideas and reasoning among many
+The conventional knowledge about the material world and quantum mechanics among many
+Resemblance and causation among many \\
+
+q What’s the mechanical worldview in the philosophy of Descartes?
+It’s an argument for the existence of God which implies that any form of complexity requires a creator. In this case, the universe’s complex and mechanistic.
+It’s an approach to understanding the mental substance by viewing it as a byproduct of a mechanistic universe that obeys the laws of physics.
+It’s the skeptical view of the mind’s (mental substance) existence because everything’s material and mechanistic. All the material stuff obey the laws of physics.
+The view’s that the universe’s a deterministic mechanism (machine) governed by mathematical laws. \\
+
+q According to Descartes, what’s the role of the pineal gland in the interaction between mind and body?
+According to Descartes, the pineal gland’s where sensory perceptions are processed.
+Descartes thought that the pineal gland’s the point in the brain where complex ideas are created.
+According to Descartes, the pineal gland serves as a point of interaction between the mind and body. \\
+Descartes believed that the pineal gland’s responsible for the body’s movements.
+
+q Which book primarily addresses Spinoza's views on the nature of reality?
+Ethics \\
+God's/Nature's Decree
+The Illusive Nature of Volition
+Attributes of God
+
+q Where’s Leibniz's popular philosophy about the nature of reality found?
+In the Fabric of Reality
+In the Impact of Theory of Forms on Ontology and Ethics
+In the Critique of Pure Reason
+In the Monadology and the Principles of Nature and of Grace \\
+
+q Which of the following statements accurately defines analytic knowledge?
+Analytic knowledge extends beyond the limits of human cognition.
+Analytic knowledge’s gained through a process of synthesis.
+Analytic knowledge’s based on the information gathered through sensory experience.
+Analytic knowledge involves truths that’re true by definition based on the meaning of the concepts alone. \\
+
+q Which book by Kant describes the nature of human knowledge and the relationship between the mind and the external world?
+Perpetual Peace
+Religion within the bounds of bare reason
+The Critique of Empiricism
+The Critique of Pure Reason \\
+
+q Which of the following describes the distinction between hypothetical and categorical imperatives?
+Hypothetical imperatives’re based on empirical evidence, while categorical imperatives’re innate in the human mind and purely rational.
+Hypothetical imperatives’re unconditional, while categorical imperatives’re conditioned on Kant's metaphysical categories about the human mind.
+Hypothetical imperatives’re conditional and dependent on personal desires, while categorical imperatives’re unconditional and universally binding. \\
+Hypothetical imperatives focus on ethical duties, while categorical imperatives’re concerned with moral virtues.
+
+q What’re maxims, according to Kant?
+Maxims’re contingent on the consequences of an action.
+Maxims’re subjective preferences guiding individual actions.
+Maxims’re irrelevant to Kantian ethics.
+Maxims’re universalizable principles that determine the moral permissibility of an action. \\
+
+q What’s the central concept in Jeremy Bentham's ethical philosophy?
+Duty
+Deontology
+Virtue
+Consequentialism \\
+
+q What does the principle of utility suggest in Bentham's ethical decision-making?
+It suggests respect for individual freedom.
+It means the greatest happiness for the most significant number of people. \\
+It suggests the pursuit of personal interests.
+It means adherence to universalizable maxims.
+
+q What’s the central concept in Jeremy Bentham's ethical philosophy?
+Duty
+Deontology
+Virtue
+Consequentialism \\
+
+q What does the principle of utility suggest in Bentham's ethical decision-making?
+It suggests respect for individual freedom.
+It means the greatest happiness for the most significant number of people. \\
+It suggests the pursuit of personal interests.
+It means adherence to universalizable maxims.
+
+q What’s the central concept in Jeremy Bentham's ethical philosophy?
+Duty
+Deontology
+Virtue
+Consequentialism \\
