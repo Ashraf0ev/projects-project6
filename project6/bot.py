@@ -1,6 +1,7 @@
 import os
 import random
 import telebot
+import threading
 
 TOKEN = "7253372948:AAFbT5XuNgdGhPeorbIRsAWFUoKD9G217e0"
 bot = telebot.TeleBot(TOKEN)  
