@@ -100,6 +100,12 @@ def send_question_poll(user, chat_id):
         db.set_user(chat_id, {"is_passed": True, "is_passing": False})
         return
 
+    # Check if any poll options exceed the maximum length of 100 characters
+    for option in question["answers"]:
+        if len(option) > 100:
+            bot.send_message(chat_id, "Error: One of the poll options exceeds the maximum length of 100 characters.")
+            return
+
     bot.send_poll(
         chat_id,
         question["text"],
@@ -109,7 +115,7 @@ def send_question_poll(user, chat_id):
         type="quiz", 
         correct_option_id=question["correct"]  
     )
-# таймер 
+
     threading.Timer(20, handle_next_question, args=(user, chat_id)).start()
 def handle_next_question(user, chat_id):
     if not user["is_passing"]:
@@ -150,3 +156,4 @@ def reset(message):
     
 if __name__ == "__main__":
     bot.polling(none_stop=True) 
+    
